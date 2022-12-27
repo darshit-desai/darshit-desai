@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshit Desai
 - 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
-- 🌱 I’m currently learning ... Robot control and modeling
+- 🌱 I’m currently learning ... Perception, Path planning and Aerial Robotics
 - 💞️ I’m looking to collaborate on ... projects related to Mobile Robotics
 - 📫 How to reach me ... darshit@umd.edu
 
