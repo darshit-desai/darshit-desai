@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fclassic.gazebosim.org%2Fmedia&psig=AOvVaw2TLpea2DhBiOuQTFV4gouq&ust=1673135274431000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCIjiot-QtPwCFQAAAAAdAAAAABAD" alt="Gazebo" width="60" height="50"/> </a> 
+<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="Gazebo" width="60" height="50"/> </a> 
 <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://niryo.com/wp-content/uploads/2019/12/CoppeliaSim.png" alt="CoppeliaSim" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
