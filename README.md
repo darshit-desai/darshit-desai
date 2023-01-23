@@ -5,6 +5,8 @@
 - 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
 - 📫 How to reach me ... darshit@umd.edu
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit-desai&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
+
 <a href="https://www.linkedin.com/in/darshit-desai-359375b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![Darshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshit-desai&show_icons=true&theme=radical)
