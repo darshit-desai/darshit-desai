@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
 - 🌱 I’m currently learning ... Perception, Path planning and Aerial Robotics
 - 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics
-- 👨‍🔬 I'm currently working with ... Daikin Energy Innovation lab on Automation of HVAC systems
+- 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
 - 📫 How to reach me ... darshit@umd.edu
 
 <a href="https://www.linkedin.com/in/darshit-desai-359375b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
