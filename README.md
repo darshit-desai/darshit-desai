@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics
 - 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
 - 📫 How to reach me ... darshit@umd.edu
+- See my latest video on drone hardware here -> <a href="https://github.com/darshit-desai/Offboard-CPP-code-controlling-drones-motion-simulated-in-PX4-Software-in-the-loop-simulation#video-of-the-modified-offboard-node-running-on-m500-frame-with-modal-ai-voxl-board">Drone flights</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit-desai&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
 
