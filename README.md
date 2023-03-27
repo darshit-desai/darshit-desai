@@ -10,8 +10,8 @@
 
 <a href="https://www.linkedin.com/in/darshit-desai-359375b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Darshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshit-desai&show_icons=true&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshit-desai&show_icons=true&locale=en&layout=compact" alt="darshit-desai" /></p>
+![Darshit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darshit-desai&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=darshit-desai&show_icons=true&locale=en&layout=compact" alt="darshit-desai" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
