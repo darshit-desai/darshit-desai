@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/darshit-desai-359375b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-[![Darshit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=darshit-desai&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/darshit-desai/github-readme-stats#gh-dark-mode-only)
+[![Darshit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=darshit-desai&show_icons=true&theme=radical#gh-dark-mode-only)
 
 <!-- <picture>
 <source 
