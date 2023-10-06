@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshit Desai
 - 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
-- 🌱 I’m currently learning ... Perception, Path planning and Aerial Robotics
+- 🌱 I’m currently learning ... <a href="https://github.com/darshit-desai/3dVision_Rendering_Basics_with_Pytorch3D/tree/main#3dvision_rendering_basics_with_pytorch3d">3D Computer Vision</a>, Deep Learning for Computer Vision, and Software Development for Robotics
 - 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics
 - 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
 - 📫 How to reach me ... darshit@umd.edu
