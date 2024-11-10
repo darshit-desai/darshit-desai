@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Darshit Desai, Check out my <a href="https://darshit-desai.github.io">Website</a>
-- 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
+- 👀 I’m interested in ... Aerial Robotics, Humanoid Robots and Computer Vision
+- 👨‍🔬 I'm currently working with ... <a href="https://freeflysystems.com">Freefly Systems</a> on building the <a href = "https://freeflysystems.com/astro">World's Toughest drones </a> as Robotics Engineer
+- 📫 How to reach me ... darshit@umd.edu
 <!--- 🌱 I’m currently learning ... <a href="https://github.com/darshit-desai/3dVision_Rendering_Basics_with_Pytorch3D/tree/main#3dvision_rendering_basics_with_pytorch3d">3D Computer Vision</a>, Deep Learning for Computer Vision, and Software Development for Robotics-->
 <!--- 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics-->
 <!--- 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>-->
-- 👨‍🔬 I'm currently working with ... <a href="https://freeflysystems.com">Freefly Systems as a Robotics Engineer
-- 📫 How to reach me ... darshit@umd.edu
-- See my latest video on drone hardware here -> Drone Flights: <a href="https://github.com/darshit-desai/Offboard-CPP-code-controlling-drones-motion-simulated-in-PX4-Software-in-the-loop-simulation#video-of-the-modified-offboard-node-running-on-m500-frame-with-modal-ai-voxl-board">Offboard node</a>,<a href="https://github.com/darshit-desai/Trajectory-control-of-Modal-AI-PX4-multicopter/tree/main#the-video-of-the-drone-field-test-is-shown-below">Trajectory Control</a>, <a href="https://github.com/darshit-desai/Drone-following-an-April-tag-marker/tree/main#flight-test-video">April Tag following</a>
+
+<!--- See my latest video on drone hardware here -> Drone Flights: <a href="https://github.com/darshit-desai/Offboard-CPP-code-controlling-drones-motion-simulated-in-PX4-Software-in-the-loop-simulation#video-of-the-modified-offboard-node-running-on-m500-frame-with-modal-ai-voxl-board">Offboard node</a>,<a href="https://github.com/darshit-desai/Trajectory-control-of-Modal-AI-PX4-multicopter/tree/main#the-video-of-the-drone-field-test-is-shown-below">Trajectory Control</a>, <a href="https://github.com/darshit-desai/Drone-following-an-April-tag-marker/tree/main#flight-test-video">April Tag following</a>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit-desai&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
 
@@ -18,7 +19,6 @@
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
 <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="Gazebo" width="60" height="50"/> </a> 
-<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://niryo.com/wp-content/uploads/2019/12/CoppeliaSim.png" alt="CoppeliaSim" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
