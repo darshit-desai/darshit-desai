@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Darshit Desai, Check out my <a href="https://darshit-desai.github.io">Website</a>
 - 👀 I’m interested in ... Robot control, UAVs, Mobile robotics
-- 🌱 I’m currently learning ... <a href="https://github.com/darshit-desai/3dVision_Rendering_Basics_with_Pytorch3D/tree/main#3dvision_rendering_basics_with_pytorch3d">3D Computer Vision</a>, Deep Learning for Computer Vision, and Software Development for Robotics
-- 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics
-- 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>
+<!--- 🌱 I’m currently learning ... <a href="https://github.com/darshit-desai/3dVision_Rendering_Basics_with_Pytorch3D/tree/main#3dvision_rendering_basics_with_pytorch3d">3D Computer Vision</a>, Deep Learning for Computer Vision, and Software Development for Robotics-->
+<!--- 💞️ I’m looking to collaborate on ... projects related to Mobile and Aerial Robotics-->
+<!--- 👨‍🔬 I'm currently working with ... <a href="https://ceee.umd.edu/daikinlab">Daikin Energy Innovation lab</a> on <a href = "https://ceee.umd.edu/about/roco">Automation of HVAC systems </a>-->
+- 👨‍🔬 I'm currently working with ... <a href="https://freeflysystems.com">Freefly Systems as a Robotics Engineer
 - 📫 How to reach me ... darshit@umd.edu
 - See my latest video on drone hardware here -> Drone Flights: <a href="https://github.com/darshit-desai/Offboard-CPP-code-controlling-drones-motion-simulated-in-PX4-Software-in-the-loop-simulation#video-of-the-modified-offboard-node-running-on-m500-frame-with-modal-ai-voxl-board">Offboard node</a>,<a href="https://github.com/darshit-desai/Trajectory-control-of-Modal-AI-PX4-multicopter/tree/main#the-video-of-the-drone-field-test-is-shown-below">Trajectory Control</a>, <a href="https://github.com/darshit-desai/Drone-following-an-April-tag-marker/tree/main#flight-test-video">April Tag following</a>
 
